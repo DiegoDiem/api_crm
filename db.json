@@ -15,6 +15,14 @@
       "telefono": "1423412213123",
       "notas": "",
       "id": 4
+    },
+    {
+      "nombre": "Luis Diego",
+      "empresa": "grupo salinas",
+      "email": "diego@corre1.com",
+      "telefono": "1423412213123",
+      "notas": "",
+      "id": 6
     }
   ]
 }
