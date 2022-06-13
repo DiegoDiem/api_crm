@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Luis Diego",
+      "empresa": "MGGasd",
+      "email": "correo@correo.com",
+      "telefono": "1123132332123",
+      "notas": "Cliente",
+      "id": 2
+    },
+    {
+      "nombre": "Yessica",
+      "empresa": "grupo salinas",
+      "email": "correo@corre1.com",
+      "telefono": "1423412213123",
+      "notas": "",
+      "id": 4
+    }
+  ]
+}
